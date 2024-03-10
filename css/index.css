@@ -15,3 +15,7 @@ h3 {
     line-height: var(--line-height-small);
     color: var(--white);
 }
+
+body {
+    background-color: powderblue;
+}
