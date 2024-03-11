@@ -8,6 +8,10 @@ h1 {
     color: var(--white);
 }
 
+#firstheader1 {
+    text-align: center;
+}
+
 h2,
 h3 {
     font-family: "Jost", sans-serif;
